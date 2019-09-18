@@ -7,5 +7,8 @@ public class Main {
 }
 
 class Book {
+    String bookname;
+    String authorname;
+    String isbn;
 
 }
