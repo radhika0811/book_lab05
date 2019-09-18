@@ -11,4 +11,12 @@ class Book {
     String authorname;
     String isbn;
 
+    public String getBookname() {
+        return bookname;
+    }
+
+    public void setBookname(String b) {
+        bookname = b;
+    }
+
 }
