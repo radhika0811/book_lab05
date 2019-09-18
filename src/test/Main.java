@@ -27,4 +27,13 @@ class Book {
         authorname = a;
     }
 
+    public String getIsbn() {
+        return isbn;
+    }
+
+    public void setIsbn(String i) {
+        authorname = i;
+    }
+
+
 }
