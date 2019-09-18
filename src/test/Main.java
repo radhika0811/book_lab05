@@ -19,4 +19,12 @@ class Book {
         bookname = b;
     }
 
+    public String getAuthorname() {
+        return authorname;
+    }
+
+    public void setAuthorname(String a) {
+        authorname = a;
+    }
+
 }
